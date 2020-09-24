@@ -1,0 +1,6 @@
+a) There are 8 commits, 5 by the original author and 3 by me.
+b) 4 years ago
+c) Git log only operates on commited history while git status lets you look at the working directory as well as the satging area.
+d) An untracked file exists in the working tree of a git repo but it is not listed in the index while an unstaged file is listed in the index but whats in the file in the working tree are different to the contents listed in the index.
+e) git checkout updates the working tree while git reset is about updating the index.
+f) changes in working directory will be overriden.
